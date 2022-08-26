@@ -1,0 +1,82 @@
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.pdb
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\EllipseWin.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\EllipseWin.baml
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\PolygonWin.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\PolygonWin.baml
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\ChangeWin.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\ChangeWin.baml
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\AddTextWin.g.cs
+C:\Users\Nikola\Desktop\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\AddTextWin.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.exe.config
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.exe
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\projekat.pdb
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\AddTextWin.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\ChangeWin.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\EllipseWin.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\PolygonWin.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat_MarkupCompile.cache
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat_MarkupCompile.lref
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\AddTextWin.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\ChangeWin.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\EllipseWin.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\PolygonWin.baml
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.g.resources
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.Properties.Resources.resources
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.csproj.CopyComplete
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.exe
+C:\Users\Nikola\Desktop\FTN\Godina 4\Semestar 8\Racunarska Grafika\projekat\projekat\projekat\obj\Debug\projekat.pdb

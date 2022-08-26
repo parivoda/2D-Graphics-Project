@@ -1,0 +1,20 @@
+﻿<Window x:Class="projekat.ChangeWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:projekat"
+        mc:Ignorable="d"
+        Title="ChangeWin" Height="400" Width="400">
+    <Grid Height="400" Background="#11131c">
+        <Label Name="fillColorLabel" Content="Fill color:" Width="170" Height="35" Margin="10,21,207,355" FontSize="20" Foreground="White"   />
+        <xctk:ColorPicker x:Name="cmbColors" Height="35" Margin="190,21,27,344" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" SelectedColorChanged="CmbColors_SelectedColorChanged" DisplayColorAndName="True" />
+        <Label Name="borderColorLabel" Content="Border color:" Width="170" Height="35" Margin="10,80,212,295" FontSize="20" Foreground="White"   />
+        <xctk:ColorPicker x:Name="borderColors" Height="35" Margin="190,80,27,285" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" SelectedColorChanged="BorderColors_SelectedColorChanged" DisplayColorAndName="True"/>
+        <Label Name="borderThicknessLabel" Content="Border thickness:" Width="170" Height="35" Margin="10,139,212,236" FontSize="20" Foreground="White"   />
+        <TextBox Name="thicknessTb" Text="" Height="35" Margin="190,139,27,226" FontSize="16" Foreground="#11131c" TextAlignment="Right" VerticalContentAlignment="Center"/>
+        <Button Height="35" Content="Cancel" FontSize="20" Foreground="#11131c"  Margin="10,306,212,59" Click="Cancel_Click"/>
+        <Button Height="35" Content="Change" FontSize="20" Foreground="#11131c"  Margin="195,306,27,59" Click="Change_Click"/>
+    </Grid>
+</Window>
